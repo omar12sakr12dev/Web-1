@@ -1,7 +1,0 @@
-{
-  "name": "web-1-static",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Build complete'"
-  }
-}
